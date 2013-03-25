@@ -1,5 +1,5 @@
-# ---
-# title: Big Bang
-# ---
+---
+title: Big Bang
+---
 # Hello, Universe.
 ## Hello, World.
